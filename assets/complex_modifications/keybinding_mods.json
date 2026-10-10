@@ -59,7 +59,12 @@
           "type": "basic",
           "from": { "key_code": "r", "modifiers": { "mandatory": ["fn"] } },
           "to": [{ "key_code": "r", "modifiers": ["left_command"] }]
-        },        
+        },     
+        {
+          "type": "basic",
+          "from": { "key_code": "s", "modifiers": { "mandatory": ["fn"] } },
+          "to": [{ "key_code": "s", "modifiers": ["left_command"] }]
+        },   
 	{
           "type": "basic",
           "from": { "key_code": "w", "modifiers": { "mandatory": ["fn"] } },
