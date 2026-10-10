@@ -139,7 +139,7 @@
           "type": "basic",
           "from": { "key_code": "up_arrow", "modifiers": { "mandatory": ["fn", "left_control"] } },
           "to": [{ "key_code": "f", "modifiers": ["fn", "left_control"] }]
-        },
+        }
       ]
     }
   ]
